@@ -77,11 +77,23 @@ Being a non-profit event, organized by volunteers without compensation or stable
 
 # Who attends UbuCon Asia
 
-TBD
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1">
+  <p><b>Software Engineers</b><br/>System, Application (Web, Desktop, etc), Embedded (IoT, Robotics, etc), Kernel & Operating Systems</p>
+  <p><b>Academic & Other</b><br/>Students (IT related majors), Professors, Researchers, Analysts, Media, Marketing, Enterprisers</p>
+  </div>
+  <div style="flex: 1">
+  <p><b>IT Infra & Operations</b><br/>SRE, Sysadmins, DevOps, Cloud, Architects</p>
+  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, DBA, ML Engineers</p>
+  <p><b>Community & Leadership</b><br/>Community Managers, DevRel, Technical Managers, OSPO Teams</p>
+  
+  </div>
+</div>
 
+## Demographics
 <pre class="mermaid mermaid-100h">
 pie showData
-title Participants by profession
+title Participants by profession (2024)
     "Students" : 50
     "Web Developer" : 60
     "DevOps Engineer" : 30
