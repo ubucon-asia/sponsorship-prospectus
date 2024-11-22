@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./themes/ubucon.css"
+    ],
+    "markdown.marp.enableHtml": true
+}
