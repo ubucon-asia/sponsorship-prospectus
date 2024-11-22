@@ -3,7 +3,28 @@ marp: true
 theme: ubucon
 paginate: true
 ---
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+<script>
+  // Replaces <pre class="mermaid"> blocks with <img> blocks, to make mermaid render properly.
+  // Preserves classes and styling so they can be used to fix sizing if necessary.
 
+  mermaid.initialize({ startOnLoad: false });
+
+  window.addEventListener('load', async function () {
+    const mermaidEls = document.querySelectorAll('pre.mermaid');
+
+    for (const el of mermaidEls) {
+      const { svg } = await mermaid.render('asd', el.textContent);
+
+      const img = document.createElement('img');
+      img.setAttribute('src', `data:image/svg+xml;base64,${btoa(svg)}`);
+      img.setAttribute('class', el.getAttribute('class'));
+      img.setAttribute('style', el.getAttribute('style') || '');
+
+      el.parentNode.replaceChild(img, el);
+    }
+  });
+</script>
 
 <style scoped>
     section {
@@ -57,6 +78,18 @@ Being a non-profit event, organized by volunteers without compensation or stable
 # Who attends UbuCon Asia
 
 TBD
+
+<pre class="mermaid mermaid-100h">
+pie showData
+title Participants by profession
+    "Students" : 50
+    "Web Developer" : 60
+    "DevOps Engineer" : 30
+    "IoT Engineer" : 30
+
+</pre>
+
+
 
 ---
 <style scoped>
