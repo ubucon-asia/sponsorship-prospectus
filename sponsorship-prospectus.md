@@ -101,21 +101,25 @@ Being a non-profit event, organized by volunteers without compensation or stable
 ---
 
 # Who attends UbuCon Asia
-
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1">
   <p><b>Software Engineers</b><br/>System, Application (Web, Desktop, etc), Embedded (IoT, Robotics, etc), Kernel & Operating Systems</p>
   <p><b>Academic & Other</b><br/>Students (IT related majors), Professors, Researchers, Analysts, Media, Marketing, Enterprisers</p>
   </div>
   <div style="flex: 1">
-  <p><b>IT Infra & Operations</b><br/>SRE, Sysadmins, DevOps, Cloud, Architects</p>
-  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, DBA, ML Engineers</p>
+  <p><b>IT Infra & Operations</b><br/>SRE, SysAdmins, Solution Architects, DevOps, Cloud</p>
+  <p><b>Data & AI</b><br/>Data Engineers, Data Scientists, DBA, AI/ML Engineers</p>
   <p><b>Community & Leadership</b><br/>Community Managers, DevRel, Technical Managers, OSPO Teams</p>
-  
   </div>
 </div>
 
-## Demographics
+## Highlights from last year
+<div style="display: flex; flex-direction: row;">
+  <p  style="flex: 1"><b>Total ~300</b><br>Participants</p>
+  <p  style="flex: 1">Participants from <br><b>9 countries</b></p>
+  <p  style="flex: 1">Session proposals<br><b>54 received</b></p>
+  <p  style="flex: 1"><b>30 Speakers</b><br>in total</p>
+</div>
 <pre class="mermaid mermaid-100h">
 pie showData
 title Participants by profession (2024)
@@ -126,12 +130,16 @@ title Participants by profession (2024)
 
 </pre>
 
+---
+# Become a sponsor!
 
+---
+# Past sponsors
 
 ---
 <style scoped>
-    section {
-        font-size: 15px;
+    table {
+        font-size: 14px;
     }
 </style>
 # Sponsorship packages
@@ -181,3 +189,32 @@ You may also become our in-kind sponsor by sponsoring coffee break, lunch, confe
 If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
 
 Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such oppertunities! 
+
+---
+
+<style scoped>
+    section {
+        background-image: url(https://assets.ubuntu.com/v1/ed94a429-0000_suru-corner-fan--top-right-light.jpg);
+        background-position: top right;
+        background-size: 20rem 15rem;
+        align-content: end;
+        font-size: 30px;
+    }
+    h1 {
+        font-size: 60px;
+    }
+</style>
+
+# End of Document
+
+Thank you for consider sponsoring our event.
+For inquires and securing sponsorship,
+Contact sponsorship team at sponsorship@ubucon.asia 
+
+More details on this event can be found at
+https://2025.ubucon.asia
+
+<img src="./assets/xsc.jpg" style="margin-left: -40px; margin-bottom: -50px; width: 210mm; height: 300px; object-fit: cover;">
+
+<!-- _paginate: skip -->
+<!-- footer: false -->
