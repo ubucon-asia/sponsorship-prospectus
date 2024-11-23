@@ -61,7 +61,7 @@ Kathmandu, Nepal
 
 **UbuCon(s) (Ubuntu Conference)** are non-profit events organized by Ubuntu Communities across the world. The events bring together hundreds of Open Source enthusiasts, users, developers, and contributors to share their stories, and experiences regarding **Ubuntu** and relevant free and open source technologies on **servers, desktops, cloud, IoT, robotics, Data, AI/ML and much more.**
 
-In the spirit of promoting the love of Open Source, **UbuCon Asia** is one of the regional UbuCon events that **especially focuses on the Asian region,** organized by Ubuntu Communities and other free and open source communities annually across Asia. This year, we are pleased to share that UbuCon Asia will be hosted at **St. Xavier's College in Kathmandu - Cultural capital of Nepal.**
+In the spirit of promoting the love of Ubuntu and Open Source, **UbuCon Asia** is one of the regional UbuCon events that **especially focuses on the Asian region,** organized by Ubuntu Communities and other free and open source communities annually across Asia. Following success of previous editions in Seoul(South Korea), Surakarta(Indonesia) and Jaipur(India), We are pleased to share that the 5th edition of UbuCon Asia will be hosted at **St. Xavier's College in Kathmandu - Cultural capital of Nepal.**
 
 Being a non-profit event, organized by volunteers without compensation or stable funds, we rely on sponsorships to host these events. Events like these allow community members to learn, share and grow together, meeting many of their peers in person, sometimes even for the first time.
 
@@ -72,6 +72,31 @@ Being a non-profit event, organized by volunteers without compensation or stable
 - **Venue:** St. Xavier's College, Kathmandu, Nepal
 - **Participant scale:** Around 300 or more
 - **Organizer:** UbuCon Asia Committee, GNOME Nepal
+
+---
+# Host city & The venue
+<hr/>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <div style="flex: 1">
+    <img src="./assets/pashupatinath_temple.jpg" style="width: 100%; object-fit: cover;">
+    </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>Nepal</h2>
+    <p>TBD</p>
+    <h2>Kathmandu</h2>
+    <p>TBD</p>
+  </div>
+</div>
+<hr/>
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <div style="flex: 1">
+    <img src="./assets/xsc.jpg" style="width: 100%; object-fit: cover;">
+    </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>St. Xavier's College (XSC)</h2>
+    <p>TBD</p>
+  </div>
+</div>
 
 ---
 
