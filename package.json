@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "marp --theme ./themes/ubucon.css --html --pdf --allow-local-files",
+    "build": "marp --theme ./themes/ubucon.css --html --pdf --allow-local-files --pdf-outlines",
     "preview": "marp --theme ./themes/ubucon.css --html --preview --allow-local-files"
   },
   "author": "",
