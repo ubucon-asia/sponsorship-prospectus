@@ -152,7 +152,7 @@ TBD - Add logo of past sponsors here
 
 | **Package** | Diamond | Gold | Silver | Bronze | Supporter  |
 | --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 2 | 3 | ∞ | ∞ |
+| **Slots** | 1 | 2 | 6 | ∞ | ∞ |
 | Price(USD) | 10,000  | 6,000 | 3,500 | 1,600 | 500 - 800 |
 | Price(NPR)<sup>*0</sup> | TBD  | TBD | TBD | TBD | TBD |
 | **Logo exposures** || |
