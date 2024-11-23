@@ -74,6 +74,10 @@ Being a non-profit event, organized by volunteers without compensation or stable
 - **Organizer:** UbuCon Asia Committee, GNOME Nepal
 
 ---
+
+# The Ubuntu Project and Its Community
+
+---
 # Host city & The venue
 <hr/>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
@@ -135,6 +139,7 @@ title Participants by profession (2024)
 
 ---
 # Past sponsors
+TBD - Add logo of past sponsors here
 
 ---
 <style scoped>
