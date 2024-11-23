@@ -82,7 +82,8 @@ As a non-profit event organized by volunteers without compensation or stable fun
 <hr/>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <div style="flex: 1">
-    <img src="./assets/pashupatinath_temple.jpg" style="width: 100%; object-fit: cover;">
+    <img src="./assets/pashupatinath_temple.jpg" style="width: 100%; object-fit: cover;"> 
+    <img src="./assets/ranipokhari.jpg" style="width: 100%; object-fit: cover;"> 
     </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Nepal</h2>
