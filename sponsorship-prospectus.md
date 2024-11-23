@@ -59,11 +59,11 @@ Kathmandu, Nepal
 
 # About UbuCon Asia
 
-**UbuCon(s) (Ubuntu Conference)** are non-profit events organized by Ubuntu Communities across the world. The events bring together hundreds of Open Source enthusiasts, users, developers, and contributors to share their stories, and experiences regarding **Ubuntu** and relevant free and open source technologies on **servers, desktops, cloud, IoT, robotics, Data, AI/ML and much more.**
+**UbuCon(s) (Ubuntu Conference)** are non-profit events organized by Ubuntu Communities worldwide. These events bring together hundreds of Open Source enthusiasts, users, developers, and contributors to share their stories and experiences regarding **Ubuntu** and relevant free and open source technologies for **servers, desktops, cloud computing, IoT, robotics, data science, AI/ML, and much more.**
 
-In the spirit of promoting the love of Ubuntu and Open Source, **UbuCon Asia** is one of the regional UbuCon events that **especially focuses on the Asian region,** organized by Ubuntu Communities and other free and open source communities annually across Asia. Following success of previous editions in Seoul(South Korea), Surakarta(Indonesia) and Jaipur(India), We are pleased to share that the 5th edition of UbuCon Asia will be hosted at **St. Xavier's College in Kathmandu - Cultural capital of Nepal.**
+In the spirit of promoting the love of Ubuntu and Open Source, **UbuCon Asia,** one of the regional UbuCon events **focusing specifically on the Asian region,** is organized annually by Ubuntu Communities and other free and open source communities across Asia. Following the success of previous editions in Seoul (South Korea), Surakarta (Indonesia), and Jaipur (India), we are pleased to announce that the 5th edition of UbuCon Asia will be hosted at **St. Xavier's College in Kathmandu, the cultural capital of Nepal.**
 
-Being a non-profit event, organized by volunteers without compensation or stable funds, we rely on sponsorships to host these events. Events like these allow community members to learn, share and grow together, meeting many of their peers in person, sometimes even for the first time.
+As a non-profit event organized by volunteers without compensation or stable funding, we rely on sponsorships to host these events. Such events enable community members to learn, share, and grow together while meeting many of their peers in person, sometimes for the first time.
 
 ## Event overview
 
