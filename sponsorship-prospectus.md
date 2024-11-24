@@ -77,6 +77,33 @@ As a non-profit event organized by volunteers without compensation or stable fun
 
 # The Ubuntu Project and Its Community
 
+<!-- Text below are draft. You may improve it if you want -->
+<div style="display: flex; flex-direction: row; margin-left: -40px; width: 210mm; height: 200px; ">
+  <img src="./assets/uca22.JPG" style="flex: 1">
+  <img src="./assets/uca23.JPG" style="flex: 1">
+  <img src="./assets/uca24.jpg" style="flex: 1">
+</div>
+
+## Ubuntu
+
+Ubuntu, co-developed by Ubunu Community with people from worldwide and Canonical, stands as the world's leading open source linux based operating system. With its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
+
+## Ubuntu Community
+
+The Ubuntu community is an international network united by our name's meaning - "humanity towards others." With millions of users and thousands of contributors worldwide, we shape the future of computing through open collaboration and freely shared work. Our diverse community includes developers, engineers, system administrators, researchers, artists, writers, and more all working together to make technology accessible to everyone.
+
+Our community thrives through:
+- Active participation across Ubuntu Discourse, Launchpad, GitHub, Matrix chat and more
+- Local Community (LoCo) teams advocating across regions
+- Technical support and knowledge sharing on Ask Ubuntu and Ubuntu Forums
+- Leadership opportunities through Ubuntu Membership and governance
+- Commitment to our Code of Conduct and our mission
+
+## UbuCon Asia
+
+UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By sponsoring UbuCon Asia, you're directly supporting Ubuntu's mission while connecting with a dynamic community that drives innovation across Asia and beyond.
+
+
 ---
 # Host city & The venue
 <hr/>
