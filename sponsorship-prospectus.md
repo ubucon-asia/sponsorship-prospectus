@@ -41,7 +41,7 @@ paginate: true
 
 ![w:200](./assets/logo.svg)
 # UbuCon Asia 2025
-Mid of September
+August 30 - 31
 St. Xavier's College
 Kathmandu, Nepal
 **Sponsorship prospectus**
@@ -68,7 +68,7 @@ As a non-profit event organized by volunteers without compensation or stable fun
 ## Event overview
 
 - **Event name:** UbuCon Asia 2025
-- **Dates:** Mid of September on weekends
+- **Dates:** August 30th - 31st
 - **Venue:** St. Xavier's College, Kathmandu, Nepal
 - **Participant scale:** Around 300 or more
 - **Organizer:** UbuCon Asia Committee, GNOME Nepal
