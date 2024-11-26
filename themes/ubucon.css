@@ -49,3 +49,19 @@ a {
   color: black;
   text-decoration-style: dotted;
 }
+
+.imgrow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-height: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgrow img {
+  flex: 1 1 0;
+  margin: 10px;
+  max-width: 30%;
+  background-color: turquoise;
+}

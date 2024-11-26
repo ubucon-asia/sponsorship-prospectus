@@ -166,8 +166,28 @@ title Participants by profession (2024)
 # Become a sponsor!
 
 ---
+
 # Past sponsors
-TBD - Add logo of past sponsors here
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/canonical.svg">
+  <img src="./assets/sponsor_logos/onlyoffice.svg">
+  <img src="./assets/sponsor_logos/fossunited.svg">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/naver_cloud.png">
+  <img src="./assets/sponsor_logos/microsoft.png">
+  <img src="./assets/sponsor_logos/invesume.png">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/whatap.png">
+  <img src="./assets/sponsor_logos/nhncloud.png">
+  <img src="./assets/sponsor_logos/nevacloud.png">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/biznet_giocloud.png">
+  <img src="./assets/sponsor_logos/idnic.png">
+  <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
+</div>
 
 ---
 <style scoped>
