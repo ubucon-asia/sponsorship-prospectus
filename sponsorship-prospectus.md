@@ -39,7 +39,7 @@ paginate: true
     }
 </style>
 
-![w:200](./assets/logo.svg)
+![w:200](./assets/logo.png)
 # UbuCon Asia 2025
 August 30 - 31
 St. Xavier's College
@@ -52,7 +52,7 @@ Kathmandu, Nepal
 
 ---
 
-<!-- header: ![w:50](./assets/logo.svg) -->
+<!-- header: ![w:50](./assets/logo.png) -->
 <!-- footer: https://2025.ubucon.asia | sponsorship@ubucon.asia -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
