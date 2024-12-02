@@ -3,6 +3,7 @@ marp: true
 theme: ubucon
 paginate: true
 ---
+
 <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
 <script>
   // Replaces <pre class="mermaid"> blocks with <img> blocks, to make mermaid render properly.
@@ -40,7 +41,9 @@ paginate: true
 </style>
 
 ![w:200](./assets/logo.png)
+
 # UbuCon Asia 2025
+
 August 30 - 31
 St. Xavier's College
 Kathmandu, Nepal
@@ -93,6 +96,7 @@ Ubuntu, co-developed by Ubunu Community with people from worldwide and Canonical
 The Ubuntu community is an international network united by our name's meaning - "humanity towards others." With millions of users and thousands of contributors worldwide, we shape the future of computing through open collaboration and freely shared work. Our diverse community includes developers, engineers, system administrators, researchers, artists, writers, and more all working together to make technology accessible to everyone.
 
 Our community thrives through:
+
 - Active participation across Ubuntu Discourse, Launchpad, GitHub, Matrix chat and more
 - Local Community (LoCo) teams advocating across regions
 - Technical support and knowledge sharing on Ask Ubuntu and Ubuntu Forums
@@ -103,9 +107,10 @@ Our community thrives through:
 
 UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By sponsoring UbuCon Asia, you're directly supporting Ubuntu's mission while connecting with a dynamic community that drives innovation across Asia and beyond.
 
-
 ---
+
 # Host city & The venue
+
 <hr/>
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <div style="flex: 1">
@@ -114,9 +119,13 @@ UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By
     </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>Nepal</h2>
-    <p>TBD</p>
+    <p style="text-align: justify;">
+    Nepal is a small yet beautiful country located between India and China. It is famous for its stunning natural beauty, diverse culture, and warm hospitality. The country is home to Mount Everest, the world’s highest mountain, which attracts adventurers from all over the globe. From the peaceful Himalayas to the lively cities, Nepal offers something for everyone.
+    </p>
     <h2>Kathmandu</h2>
-    <p>TBD</p>
+    <p style="text-align: justify;">
+    Kathmandu, the capital city of Nepal, is a vibrant place filled with history, culture, and spiritual significance. Known as the "City of Temples," it is home to UNESCO World Heritage Sites like Durbar Square, Pashupatinath Temple, and Boudhanath Stupa. The city is a melting pot of diverse traditions, languages, and foods, making it a fascinating destination for travelers. Blending old traditions with modern life, Kathmandu offers a unique and unforgettable experience.
+    </p>
   </div>
 </div>
 <hr/>
@@ -126,13 +135,16 @@ UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By
     </div>
   <div style="flex: 1; padding-left: 20px;">
     <h2>St. Xavier's College (XSC)</h2>
-    <p>TBD</p>
+    <p style="text-align: justify;">
+    St. Xavier’s College (SXC) in Kathmandu is one of Nepal’s most respected educational institutions. It is run by the Nepal Jesuit Society, which has been providing quality education in Nepal since 1951. Over the years, the Jesuits have established many schools and colleges across the country, focusing on service, leadership, and building strong communities.
+    </p>
   </div>
 </div>
 
 ---
 
 # Who attends UbuCon Asia
+
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1">
   <p><b>Software Engineers</b><br/>System, Application (Web, Desktop, etc), Embedded (IoT, Robotics, etc), Kernel & Operating Systems</p>
@@ -146,6 +158,7 @@ UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By
 </div>
 
 ## Highlights from last year
+
 <div style="display: flex; flex-direction: row;">
   <p  style="flex: 1"><b>Total ~300</b><br>Participants</p>
   <p  style="flex: 1">Participants from <br><b>9 countries</b></p>
@@ -163,11 +176,13 @@ title Participants by profession (2024)
 </pre>
 
 ---
+
 # Become a sponsor!
 
 ---
 
 # Past sponsors
+
 <div class="imgrow">
   <img src="./assets/sponsor_logos/canonical.svg">
   <img src="./assets/sponsor_logos/onlyoffice.svg">
@@ -190,50 +205,54 @@ title Participants by profession (2024)
 </div>
 
 ---
+
 <style scoped>
     table {
         font-size: 14px;
     }
 </style>
+
 # Sponsorship packages
 
-| **Package** | Diamond | Gold | Silver | Bronze | Supporter  |
-| --- | --- | --- | --- | --- | --- |
-| **Slots** | 1 | 2 | 6 | ∞ | ∞ |
-| Price(USD) | 10,000  | 6,000 | 3,500 | 1,600 | 500 - 800 |
-| Price(NPR)<sup>*0</sup> | TBD  | TBD | TBD | TBD | TBD |
-| **Logo exposures** || |
-| Website | XL | L | M | S | S |
-| Plenary banner<sup>*1</sup> | XL | L | M | S | XS |
-| Stage (or Podium) banner | Yes | Yes | Yes | No | No |
-| Nametag | Yes | Yes | No | No | No |
-| Video banner<sup>*2</sup> | Yes | Yes | No | No | No |
-| Video sponsor information scene<sup>*3</sup> | Yes | Yes | Yes | Yes | Yes |
-| T-Shirt (or other swag if no T-shirt) | Yes | Yes | No | No | No |
-| **Recognition** || |
-| Recognition posting on social media | Yes | Yes | Yes | Yes | Yes |
-| Recognition posting on blog | Yes | Yes | No | No | No |
-| Mention during opening and closing session | Yes | Yes | Yes | Yes | Yes |
-| **Engagements** || |
-| Sponsored session<sup>*4</sup> | A Keynote<small>(30min)</small><br> + A Workshop<small>(90min)</small>,<br> A Talk<small>(30min)</small><br> or A BoF<small>(40-50min)</small> | A Talk<small>(30min)</small> or A Workshop<small>(90min)</small> | A Talk<small>(30min)</small> | A Lightning talk(5min) <small>(Limited FCFS)</small> | No |
-| Sponsor booth | L | M | S<sup>*5</sup> | S<sup>*5</sup> <small>(500 USD Add-on FCFS)</small> | No |
-| Promotion video during breaks | 3min | 2min | 1min | No | No |
-| Distribute Promotional Material  | Handout on attendee check-in + At booth | Handout on attendee check-in + At booth | At booth | At booth <small>(If booth allocated)</small> | No |
-| Promotional Email to all Attendees<sup>*5</sup> | Yes (One-time with custom content) | Yes (One-time with custom content) | Yes (One-time with custom content) | No | No |
+| **Package**                                      | Diamond                                                                                                                                        | Gold                                                             | Silver                             | Bronze                                               | Supporter |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------- | --------- |
+| **Slots**                                        | 1                                                                                                                                              | 2                                                                | 6                                  | ∞                                                    | ∞         |
+| Price(USD)                                       | 10,000                                                                                                                                         | 6,000                                                            | 3,500                              | 1,600                                                | 500 - 800 |
+| Price(NPR)<sup>\*0</sup>                         | TBD                                                                                                                                            | TBD                                                              | TBD                                | TBD                                                  | TBD       |
+| **Logo exposures**                               |                                                                                                                                                |                                                                  |
+| Website                                          | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | S         |
+| Plenary banner<sup>\*1</sup>                     | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | XS        |
+| Stage (or Podium) banner                         | Yes                                                                                                                                            | Yes                                                              | Yes                                | No                                                   | No        |
+| Nametag                                          | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
+| Video banner<sup>\*2</sup>                       | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
+| Video sponsor information scene<sup>\*3</sup>    | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
+| T-Shirt (or other swag if no T-shirt)            | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
+| **Recognition**                                  |                                                                                                                                                |                                                                  |
+| Recognition posting on social media              | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
+| Recognition posting on blog                      | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
+| Mention during opening and closing session       | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
+| **Engagements**                                  |                                                                                                                                                |                                                                  |
+| Sponsored session<sup>\*4</sup>                  | A Keynote<small>(30min)</small><br> + A Workshop<small>(90min)</small>,<br> A Talk<small>(30min)</small><br> or A BoF<small>(40-50min)</small> | A Talk<small>(30min)</small> or A Workshop<small>(90min)</small> | A Talk<small>(30min)</small>       | A Lightning talk(5min) <small>(Limited FCFS)</small> | No        |
+| Sponsor booth                                    | L                                                                                                                                              | M                                                                | S<sup>\*5</sup>                    | S<sup>\*5</sup> <small>(500 USD Add-on FCFS)</small> | No        |
+| Promotion video during breaks                    | 3min                                                                                                                                           | 2min                                                             | 1min                               | No                                                   | No        |
+| Distribute Promotional Material                  | Handout on attendee check-in + At booth                                                                                                        | Handout on attendee check-in + At booth                          | At booth                           | At booth <small>(If booth allocated)</small>         | No        |
+| Promotional Email to all Attendees<sup>\*5</sup> | Yes (One-time with custom content)                                                                                                             | Yes (One-time with custom content)                               | Yes (One-time with custom content) | No                                                   | No        |
 
 Refer to next page for footnotes and additional sponsorship oppertunities.
 
 ---
+
 # Sponsorship packages
+
 ## Footnotes
 
-- *0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
-- *1: A large size banner installed in reception area usually or enterance of the venue that number of attendees can take photo with banner as backdrop.
-- *2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
-- *3: Duration of Scene will be around a few seconds in the video or live streams. 
-- *4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
-- *5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
-- *6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
+- \*0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
+- \*1: A large size banner installed in reception area usually or enterance of the venue that number of attendees can take photo with banner as backdrop.
+- \*2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
+- \*3: Duration of Scene will be around a few seconds in the video or live streams.
+- \*4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
+- \*5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
+- \*6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
 
 ## Additional sponsorship oppertunities
 
@@ -241,7 +260,7 @@ You may also become our in-kind sponsor by sponsoring coffee break, lunch, confe
 
 If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
 
-Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such oppertunities! 
+Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such oppertunities!
 
 ---
 
@@ -262,7 +281,7 @@ Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) t
 
 Thank you for consider sponsoring our event.
 For inquires and securing sponsorship,
-Contact sponsorship team at sponsorship@ubucon.asia 
+Contact sponsorship team at sponsorship@ubucon.asia
 
 More details on this event can be found at
 https://2025.ubucon.asia
