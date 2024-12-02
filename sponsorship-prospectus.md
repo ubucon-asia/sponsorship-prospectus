@@ -179,6 +179,23 @@ title Participants by profession (2024)
 
 # Become a sponsor!
 
+UbuCon Asia, although being a new addition to the UbuCon events, has grown enormously in a very short period with attendance reaching 500+ in UbuCon Asia 2024. The event IS NOT organized by Canonical or any such organization and is purely run by community and volunteer efforts without compensation. Hence, we rely solely on our sponsors to fund our various expenses and make the event successful.
+
+Open Source has always been a campaigner for diversity and inclusion with no barriers to entry and one of the major key players in it is supporting the people to have an equal stand. Sponsoring UbuCon Asia is an excellent opportunity to interact with and reach some of the top Open Source developers and contributors. You will be part of one of the best IT and FOSS events in Nepal, with a front-row seat to your participation as an IT player.
+
+### Benefits of Sponsorship
+- Open Source Community Support
+- Brand Awareness and Recognition
+- Thought Leadership
+- Sales Leads and Customer Acquisition
+- Showcase Products, Services, and Technologies
+- Mindshare Capture from Developers and Advocates
+- Media Exposure and PR Announcements
+- Leverage Targeted Marketing Opportunities
+
+**By sponsoring UbuCon, you get to reach a diverse and varied audience of open source practitioners, all in one place.
+
+
 ---
 
 # Past sponsors
@@ -218,7 +235,7 @@ title Participants by profession (2024)
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------- | --------- |
 | **Slots**                                        | 1                                                                                                                                              | 2                                                                | 6                                  | ∞                                                    | ∞         |
 | Price(USD)                                       | 10,000                                                                                                                                         | 6,000                                                            | 3,500                              | 1,600                                                | 500 - 800 |
-| Price(NPR)<sup>\*0</sup>                         | TBD                                                                                                                                            | TBD                                                              | TBD                                | TBD                                                  | TBD       |
+| Price(NPR)<sup>\*0</sup>                         | 3,50,000                                                                                                                                       | 2,50,000                                                         | 1,50,000                           | 1,00,000                                             | 80,000    |
 | **Logo exposures**                               |                                                                                                                                                |                                                                  |
 | Website                                          | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | S         |
 | Plenary banner<sup>\*1</sup>                     | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | XS        |
@@ -254,13 +271,13 @@ Refer to next page for footnotes and additional sponsorship oppertunities.
 - \*5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
 - \*6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
 
-## Additional sponsorship oppertunities
+## Additional sponsorship opportunities
 
 You may also become our in-kind sponsor by sponsoring coffee break, lunch, conference dinner, day trip, diversity initiatives and more! We’ll work with you to put together the right UbuCon Asia package for your company or organization. These additional opportunities may be sponsored separately or added on to a sponsorship package.
 
 If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
 
-Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such oppertunities!
+Please contact us at [sponsorship@ubucon.asia](mailto:sponsorship@ubucon.asia) to discuss such opportunities!
 
 ---
 
