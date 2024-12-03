@@ -164,17 +164,57 @@ UbuCon Asia serves as the premier Ubuntu community event in the Asian region. By
   <p  style="flex: 1">Participants from <br><b>9 countries</b></p>
   <p  style="flex: 1">Session proposals<br><b>54 received</b></p>
   <p  style="flex: 1"><b>30 Speakers</b><br>in total</p>
+  <p  style="flex: 1"><b>~40% Attendees</b><br>with career</p>
 </div>
-<pre class="mermaid mermaid-100h">
-pie showData
-title Participants by profession (2024)
-    "Students" : 50
-    "Web Developer" : 60
-    "DevOps Engineer" : 30
-    "IoT Engineer" : 30
 
+### Participants demographics
+<pre class="mermaid mermaid-100h">
+pie 
+    "AI/ML Engineer":	2
+    "Community Manager":	3
+    "Community Organiser":	1
+    "Data Engineer":	1
+    "DevRel":	1
+    "Director":	1
+    "Enterpriser":	6
+    "Marketing Manager":	1
+    "Other":	31
+    "Product Designer":	4
+    "Product Engineer":	2
+    "Product Manager":	1
+    "Researcher":	3
+    "Scientist":	8
+    "Student":	137
+    "Technical Author":	2
+    "Software Engineers": 41
+    "IT Infra & Operations": 29
 </pre>
 
+---
+### Demographics breakdown - Software Engineers
+<pre class="mermaid mermaid-100h" style="height: 40%">
+pie 
+    "Other":	27
+    "Backend":	5
+    "Embedded":	2
+    "Frontend":	1
+    "Fullstack":	3
+    "Web":	3
+</pre>
+
+### Demographics breakdown - IT Infra & Operations
+<pre class="mermaid mermaid-100h"  style="height: 40%">
+pie 
+    "Cloud Engineer":	3
+    "Customer Success":	2
+    "DevOps Engineer":	11
+    "Digital Transformation":	1
+    "IT Operation":	3
+    "Network Engineer":	2
+    "Support Engineer":	2
+    "System Engineer":	4
+    "Security Engineer":	1
+</pre>
 ---
 
 # Become a sponsor!
