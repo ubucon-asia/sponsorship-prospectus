@@ -2,6 +2,7 @@
 marp: true
 theme: ubucon
 paginate: true
+title: UbuCon Asia 2025 Sponsorship prospectus
 ---
 
 <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
