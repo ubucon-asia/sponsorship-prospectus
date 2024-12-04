@@ -301,6 +301,16 @@ of Ubuntu and open source practitioners, all in one place.**
   <img src="./assets/sponsor_logos/idnic.png">
   <img src="./assets/sponsor_logos/ahnlabcloudmate.svg">
 </div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/grometric.svg">
+  <img src="./assets/sponsor_logos/elastic.svg">
+  <img src="./assets/sponsor_logos/inflearn.svg">
+</div>
+<div class="imgrow">
+  <img src="./assets/sponsor_logos/cdac.png">
+  <img src="./assets/sponsor_logos/nipa.png">
+  <img src="./assets/sponsor_logos/indobsd.webp">
+</div>
 
 ---
 
