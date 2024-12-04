@@ -219,21 +219,62 @@ pie
 
 # Become a sponsor!
 
-UbuCon Asia, although being a new addition to the UbuCon events, has grown enormously in a very short period with attendance reaching 500+ in UbuCon Asia 2024. The event IS NOT organized by Canonical or any such organization and is purely run by community and volunteer efforts without compensation. Hence, we rely solely on our sponsors to fund our various expenses and make the event successful.
+UbuCon Asia, although being a new addition to the UbuCon events, has already been organized in Seoul(South Korea), Surakarta(Indonesia) and Jaipur(India) with many success. It has been a momentum to drive making local Ubuntu communities active or revive and connect with each other. The event is soley organized by community and volunteer efforts without any financial compensation. Thus, we rely solely on our sponsors to fund our various expenses and make the event successful.
 
-Open Source has always been a campaigner for diversity and inclusion with no barriers to entry and one of the major key players in it is supporting the people to have an equal stand. Sponsoring UbuCon Asia is an excellent opportunity to interact with and reach some of the top Open Source developers and contributors. You will be part of one of the best IT and FOSS events in Nepal, with a front-row seat to your participation as an IT player.
+Ubuntu is more than just an open-source platform; it embodies a global community committed to diversity, collaboration, and empowerment. UbuCon Asia is a unique opportunity to engage with passionate technology professionals across the Asia. Sponsoring this event will connect you with top Ubuntu developers, contributors, and innovators from diverse Asian communities, gaining insights into the region's vibrant tech ecosystem. Your support will help foster technological exchange and community growth across Asia and beyond.
 
-### Benefits of Sponsorship
-- Open Source Community Support
-- Brand Awareness and Recognition
-- Thought Leadership
-- Sales Leads and Customer Acquisition
-- Showcase Products, Services, and Technologies
-- Mindshare Capture from Developers and Advocates
-- Media Exposure and PR Announcements
-- Leverage Targeted Marketing Opportunities
+## Benefits of Sponsorship
 
-**By sponsoring UbuCon, you get to reach a diverse and varied audience of open source practitioners, all in one place.
+<div style="display: flex; flex-direction: row; margin-top: -30px;">
+  <div style="flex: 1; padding-right: 10px;">
+  <p>
+    <img src="./assets/icons/target.svg" style="height: 40px"/><br/>
+    <b>Targeted marketing opportunities</b><br/>
+    A good opportunity to boost leads through targeted marketing with most of our audience from tech industry.
+  </p>
+  <p>
+    <img src="./assets/icons/talent.svg" style="height: 40px"/><br/>
+    <b>Talent acquisition</b><br/>
+    Recruit the brightest minds in the industry to fill your open positions.
+    40%+ of our attendees last year were with IT related professions. 
+  </p>
+  <p>
+    <img src="./assets/icons/bullhorn.svg" style="height: 40px"/><br/>
+    <b>Empower your branding</b><br/>
+    Expose your logo on banners, website, videos and more places to empower your branding and awareness.
+  </p>
+  <p>
+    <img src="./assets/icons/brain.svg" style="height: 40px"/><br/>
+    <b>Mindshare Capture from<br/>Developers and Advocates</b><br/>
+    Position your brand as a key player and a thought leader among influential technical professionals.
+  </p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+  <p>
+    <img src="./assets/icons/present.svg" style="height: 40px"/><br/>
+    <b>Showcase products and services</b><br/>
+    Showcase your innovative products and service face-to-face with your potential and existing customers and receive valuable feedback. 
+  </p>
+  <p>
+    <img src="./assets/icons/speak.svg" style="height: 40px"/><br/>
+    <b>Establish thought leadership</b><br/>
+    Showcase your expertise on Ubuntu and its ecosystem and educate the community about your organization’s products, services and open source strategies.
+  </p>
+  <p>
+    <img src="./assets/icons/opensource.svg" style="height: 40px"/><br/>
+    <b>Support Open source and Community</b><br/>
+    Sponsoring our event is one of the best ways to show your sincere and support to open source and community.
+  </p>
+  <p>
+    <img src="./assets/icons/news.svg" style="height: 40px"/><br/>
+    <b>Media Exposure and PR Announcements</b><br/>
+    Generate strategic media coverage and amplify brand messaging beyond the event.
+  </p>
+  </div>
+</div>
+
+**By sponsoring UbuCon Asia, you get to reach a diverse and varied audience 
+of Ubuntu and open source practitioners, all in one place.**
 
 
 ---
