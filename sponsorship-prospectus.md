@@ -41,7 +41,7 @@ title: UbuCon Asia 2025 Sponsorship prospectus
     }
 </style>
 
-![w:200](./assets/logo.png)
+![w:200](./assets/logo.svg)
 
 # UbuCon Asia 2025
 
@@ -56,7 +56,7 @@ Kathmandu, Nepal
 
 ---
 
-<!-- header: ![w:50](./assets/logo.png) -->
+<!-- header: ![w:50](./assets/logo.svg) -->
 <!-- footer: https://2025.ubucon.asia | sponsorship@ubucon.asia -->
 
 <img src="./assets/group_photo.jpg" style="margin-left: -40px; margin-top: -40px;  width: 210mm; height: 300px; object-fit: cover;">
