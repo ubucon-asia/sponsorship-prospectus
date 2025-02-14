@@ -17,3 +17,8 @@ To build, With Node.js and Web browser (Chrome, Firefox, etc.) installed, run fo
 npm install
 npm run build sponsorship-prospectus.md
 ```
+
+
+## License
+- Contents (Such as text and images) are licensed under CC BY 4.0 
+- Code and template are licensed under MIT License
