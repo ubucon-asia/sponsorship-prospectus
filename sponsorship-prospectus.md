@@ -326,8 +326,8 @@ of Ubuntu and open source practitioners, all in one place.**
 | **Package**                                      | Diamond                                                                                                                                        | Gold                                                             | Silver                             | Bronze                                               | Supporter |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------- | --------- |
 | **Slots**                                        | 1                                                                                                                                              | 2                                                                | 6                                  | ∞                                                    | ∞         |
-| Price(USD)                                       | 10,000                                                                                                                                         | 6,000                                                            | 3,500                              | 1,600                                                | 500 - 800 |
-| Price(NPR)<sup>\*0</sup>                         | 10,00,000                                                                                                                                       | 6,00,000                                                         | 4,00,000                           | 2,00,000                                             | 70,000 - 1,00,000    |
+| Price(USD)                                       | 10,000                                                                                                                                         | 6,000                                                            | 3,500                              | 1,600                                                | 500 - 800 <small>(Startups: 200-800<sup>\*7</sup>)</small> |
+| Price(NPR)<sup>\*0</sup>                         | 10,00,000                                                                                                                                       | 6,00,000                                                         | 4,00,000                           | 2,00,000                                             | 70,000 - 1,00,000 <small>(Startups: 50,000 - 1,00,000<sup>\*7</sup>)</small>   |
 | **Logo exposures**                               |                                                                                                                                                |                                                                  |
 | Website                                          | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | S         |
 | Plenary banner<sup>\*1</sup>                     | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | XS        |
@@ -362,10 +362,21 @@ Refer to next page for footnotes and additional sponsorship oppertunities.
 - \*4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
 - \*5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
 - \*6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
+- \*7: Startup pricing for the supporter package is limited to companies that use Ubuntu internally, have been established for five years or less, and have 30 or fewer employees.
 
 ## Additional sponsorship opportunities
+**Exhibitor package** | 600 USD (or 50,000 NPR for Local sponsors)
+- Get a booth for your business in our exhibition area!
+- Benefits
+  - S size booth & Logistics support
+  - 3 Tickets with exhibition area access only
+  - Logo exposure on exhibitors information page on our website
 
-You may also become our in-kind sponsor by sponsoring coffee break, lunch, conference dinner, day trip, diversity initiatives and more! We’ll work with you to put together the right UbuCon Asia package for your company or organization. These additional opportunities may be sponsored separately or added on to a sponsorship package.
+**Diversity funds package** | 200 - 700 USD (or 20,000 - 70,000 NPR for Local sponsors)
+- Sponsor travels of underrated people or group in the community. So that we can make Ubuntu community more diverse and inclusive!
+- Benefits: Logo exposure on travel grant page on our website and beneficiaries' event report
+
+You may also become our in-kind sponsor by sponsoring coffee break, lunch, conference dinner, day trip and more! We’ll work with you to put together the right sponsorship package for your company or organization. These additional opportunities may be sponsored separately or added on to a sponsorship package.
 
 If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
 
