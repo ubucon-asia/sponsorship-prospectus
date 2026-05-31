@@ -316,12 +316,12 @@ of Ubuntu and open source practitioners, all in one place.**
 # Sponsorship packages
 | Package  | Price (USD) | Official website and OPass app          | Event Site (co-branded with COSCUP)   | COSCUP social media   |
 | -------- | ----------- | --------------------------------------- | ------------------------------------- | --------------------- |
-| Titanium | 8,500       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*2; \*3; \*4; \*5; \*6  | 1 article on the COSCUP blog; promotion via COSCUP social media |
-| Diamond  | 6,090       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*3; \*5   | 1 article on the COSCUP blog; promotion via COSCUP social media |
-| Gold     | 4,910       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*3        | 1 article on the COSCUP blog; promotion via COSCUP social media |
-| Silver   | 2,945       | Company profile listed; agenda page ads | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
-| Bronze   | 1,375       | Company profile listed; agenda page ads | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
-| Friend   | 785         | Company profile listed                  | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
+| Titanium | 8,500       | Company profile listed; agenda page ads | Logo displayed at the <sup>\*1; \*2; \*3; \*4; \*5; \*6; \*7 </sup> | 1 article on the COSCUP blog; <sup>\*0</sup> |
+| Diamond  | 6,090       | Company profile listed; agenda page ads | Logo displayed at the <sup>\*1; \*3; \*5</sup>   | 1 article on the COSCUP blog; promotion via COSCUP social media |
+| Gold     | 4,910       | Company profile listed; agenda page ads | Logo displayed at the <sup>\*1; \*3</sup>        | 1 article on the COSCUP blog; promotion via COSCUP social media |
+| Silver   | 2,945       | Company profile listed; agenda page ads | Logo displayed at the <sup>\*1</sup>             | Promotion via COSCUP social media                               |
+| Bronze   | 1,375       | Company profile listed; agenda page ads | Logo displayed at the <sup>\*1</sup>             | Promotion via COSCUP social media                               |
+| Friend   | 785         | Company profile listed                  | Logo displayed at the <sup>\*1</sup>             | Promotion via COSCUP social media                               |
 
 <p></p>
 
@@ -348,13 +348,13 @@ of Ubuntu and open source practitioners, all in one place.**
 
 ### Footnotes
 
-- \*0: reception table
-- \*1: logo on stage flag in keynote hall
-- \*2: Welcome party sponsorship
-- \*3: Welcome party free drink tickets
-- \*4: Recruiting Board Sponsorship
-- \*5: Promotion at the snack area
-- \*6: Brand exposure on the conference table-front display
+- \*1: reception table
+- \*2: logo on stage flag in keynote hall
+- \*3: Welcome party sponsorship
+- \*4: Welcome party free drink tickets
+- \*5: Recruiting Board Sponsorship
+- \*6: Promotion at the snack area
+- \*7: Brand exposure on the conference table-front display
 
 Refer to next page for additional sponsorship opportunities.
 
